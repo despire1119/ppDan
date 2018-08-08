@@ -1,0 +1,5 @@
+{
+    "service":"TestVueNew",
+    "serviceID":"${service_id}",
+    "version":"${package_version}"
+} 
